@@ -11,7 +11,6 @@
 'use strict'
 
 function generateSeats(row) {
-	debugger
 	let seats = []
 	for(let i = 0; i < row; i++) {
 		seats.push([])
